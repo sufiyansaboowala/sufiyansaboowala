@@ -9,7 +9,7 @@
 
 - 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `C++`, `Angular`**
 
-- 📫  How to reach me **`Email: kineticlion@outlook.com*`**
+- 📫  How to reach me **`Email: kineticlion@outlook.com`**
 
 - ⚡   Fun fact **`I am a musician ;)`**
 
