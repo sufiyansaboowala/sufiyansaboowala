@@ -7,7 +7,7 @@
 
 - ❤️  I’m currently working with **`MEAN`** Stack as a **`Full Stack Developer`**.
 
-- 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `C++`, `Angular`**
+- 💬  Ask me about **`DataStructures`, `Algorithms`,`System Design`, `Math`, `C++`, `Angular`**
 
 - 📫  How to reach me **`Email: kineticlion@outlook.com`**
 
