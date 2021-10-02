@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! - Codename Kineticlion👋</h1>
+<h1 align="center"><kineticlion>Hello👋</kineticlion></h1>
 <h3 align="center">Software(Engineer + Developer)</h3>
 
 <p align="center"> 
