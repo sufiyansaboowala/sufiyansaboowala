@@ -15,8 +15,8 @@
 
 <section width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kineticlion&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kineticlion&theme=tokyonight" />
-          [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kineticlion&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+          <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=kineticlion&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+         
 </section>
 
 <section align="center">
