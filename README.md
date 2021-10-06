@@ -15,8 +15,7 @@
 
 <section width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kineticlion&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-          <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=kineticlion&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-         
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kineticlion&theme=tokyonight" />
 </section>
 
 <section align="center">
@@ -95,5 +94,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="postman" width="40" height="40"/>
   </a>  
  </section>
-
 
