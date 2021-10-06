@@ -1,4 +1,4 @@
-<h1 align="center">hello world!👋 return kineticlion;</h1>
+<h1 align="center">return'hello world!'</h1>
 <h3 align="center">Software(Engineer + Developer)</h3>
 
 <p align="center"> 
