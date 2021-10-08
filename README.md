@@ -1,11 +1,11 @@
-<h1 align="center">'hello world!'+'-Kineticlion'</h1>
+<h1 align="center">"hello world!"+"-Kineticlion"</h1>
 <h3 align="center">Software(Engineer + Developer)</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kineticlion&label=Profile%20views&color=0e75b6&style=flat" alt="kineticlion" /> 
 </p>
 
-- ❤️  I’m currently working with **`MEAN`** Stack as a **`Full Stack Developer`**.
+- ❤️  I’m currently working with Angular + Django`**.
 
 - 💬  Ask me about **`DataStructures`, `Algorithms`,`System Design`, `Math`, `C++`, `Angular`**
 
