@@ -11,7 +11,7 @@
 
 - 📫  How to reach me **`Email: kineticlion@outlook.com`**
 
-- ⚡   Fun fact **`I am a musician ;)`**
+- ⚡   Projects are **private**. Let me know if **you are a recruiter :)`**
 
 <section width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kineticlion&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
