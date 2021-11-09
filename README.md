@@ -18,11 +18,7 @@
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kineticlion&theme=tokyonight" />
 </section>
 
-<section align="center">
   ![snake gif](https://github.com/kineticlion/kineticlion/blob/output/github-contribution-grid-snake.gif)
- </section>
-
-
 
 <section align="center">  
   <h3>Languages, Frameworks, Libraries & Tools</h3>
