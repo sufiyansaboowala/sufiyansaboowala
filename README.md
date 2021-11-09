@@ -19,7 +19,7 @@
 </section>
 
 <section align="center">
-  <img width="96.3%" src="https://activity-graph.herokuapp.com/graph?username=kineticlion&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />  
+  ![snake gif](https://github.com/kineticlion/kineticlion/blob/output/github-contribution-grid-snake.gif)
  </section>
 
 
