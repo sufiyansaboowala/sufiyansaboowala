@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=kineticlion&label=Profile%20views&color=0e75b6&style=flat" alt="kineticlion" /> 
 </p>
 
-- ❤️  I’m currently working with **`Angular` + `Django`**.
+- ❤️  I’m currently working with **`Java`**.
 
-- 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `C++`, `Angular`**
+- 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `C++`, `Java`**
 
 - 📫  How to reach me **`Email: kineticlion@outlook.com`**
 
