@@ -7,7 +7,7 @@
 
 - ❤️  I’m currently working with **`Java`**.
 
-- 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `C++`, `Java`**
+- 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `Java`**
 
 - 📫  How to reach me **`Email: kineticlion@outlook.com`**
 
