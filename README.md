@@ -14,7 +14,7 @@
 - ⚡   Projects are **private**. Let me know if you are a **recruiter** :)
 
 <section width="48%" align="left">
-          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kineticlion&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sufiyansaboowala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
           <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=sufiyansaboowala&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </section>
 
