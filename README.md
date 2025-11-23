@@ -8,7 +8,7 @@
 
 - 💬  Ask me about **`DataStructures`, `Algorithms`, `Math`, `Java`**
 
-- 📫  How to reach me **`Email: sufiyansaboowala@outlook.com`**
+- 📫  How to reach me **`Email: sufiyansaboowala13@gmail.com`**
 
 - ⚡   Projects are **private**. Let me know if you are a **recruiter** :)
 
